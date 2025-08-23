@@ -10,3 +10,5 @@
 		<Options></Options>
 	</Slide>
 </Presentation>
+
+export const prerender = true;
